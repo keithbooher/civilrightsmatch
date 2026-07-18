@@ -56,9 +56,9 @@ Thanks for applying to list on CivilRightsMatch.com — we're excited to have yo
 [IF bar number was NOT provided]: Could you share your [State] bar number? We include it on attorney profiles so potential clients can verify your license — it helps build trust.
 
 [IF referral fee was NOT provided]:
-One quick question on how our arrangement works: when we refer a case to you that results in a retained client, we earn a referral fee. What percentage works for you? (25–33% is typical in civil rights cases, but whatever you're comfortable with.)
+One quick question on how our arrangement works: when we send you a qualified client lead, we charge a flat referral fee per lead delivered — not a percentage of your settlement or recovery. We'll follow up shortly with our current rate. Does a flat per-lead fee work for your practice?
 [IF referral fee WAS provided]:
-Thanks for including your referral fee of [X]% — that works for us.
+Thanks for the info. Just to clarify how we work: we charge a flat referral fee per qualified lead we send you, not a percentage of your recovery. We'll follow up with our current rate.
 
 Here's what happens next:
 1. We'll review your info and have your profile live within 24 hours

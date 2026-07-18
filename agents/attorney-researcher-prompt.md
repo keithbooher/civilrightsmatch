@@ -40,7 +40,7 @@ We're building the go-to resource for people across [State] who need help with p
 
 Basic listings are completely free. We also offer featured placements for attorneys who want priority visibility.
 
-If you take referrals, we'd love to talk about a referral arrangement as well — we're working to generate qualified leads for listed attorneys.
+When we send you a qualified client lead, we charge a flat referral fee per lead — no percentage of your settlement, no ongoing cuts. Reply if you'd like to hear more about how it works.
 
 Claim your free listing here: https://civilrightsmatch.com/claim-listing
 

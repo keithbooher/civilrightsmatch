@@ -28,7 +28,6 @@ City: ${data.city}
 
 Bar Number: ${data.barNumber || "not provided"}
 Years in Practice: ${data.yearsInPractice || "not provided"}
-Referral Fee: ${data.referralFee || "not provided"}%
 
 Specialties: ${data.specialties || "not provided"}
 Plan Selected: ${data.plan || "Basic (Free)"}

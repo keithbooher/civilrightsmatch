@@ -36,7 +36,7 @@ export default function AttorneySignupForm({ plan = "Basic" }: { plan?: string }
       city: (form.elements.namedItem("city") as HTMLInputElement).value,
       barNumber: (form.elements.namedItem("barNumber") as HTMLInputElement).value,
       yearsInPractice: (form.elements.namedItem("yearsInPractice") as HTMLInputElement).value,
-      referralFee: (form.elements.namedItem("referralFee") as HTMLInputElement).value,
+
       specialties: (form.elements.namedItem("specialties") as HTMLTextAreaElement).value,
     };
 
@@ -143,19 +143,8 @@ export default function AttorneySignupForm({ plan = "Basic" }: { plan?: string }
           </div>
         </div>
 
-        <div>
-          <label className={labelClass}>
-            Referral Fee %{" "}
-            <span className="text-gray-400 font-normal">(we earn a referral fee on cases we send you)</span>
-          </label>
-          <input
-            name="referralFee"
-            type="number"
-            min="0"
-            max="50"
-            className={inputClass}
-            placeholder="e.g. 25"
-          />
+        <div className="bg-amber-400/10 border border-amber-400/30 rounded-xl px-4 py-3 text-sm text-gray-300">
+          <span className="font-semibold text-amber-400">How leads work:</span> When we send you a qualified client lead, we charge a flat referral fee per lead — not a percentage of your settlement. You&apos;ll be prompted to add a payment method after your profile goes live.
         </div>
       </div>
 
